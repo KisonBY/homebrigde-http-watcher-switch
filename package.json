@@ -1,6 +1,6 @@
 {
   "name": "homebridge-http-watcher-switch",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Homebridge switches that can be triggered by calling HTTP handler",
   "author": {
     "name": "KisonBY",
