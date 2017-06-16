@@ -13,7 +13,7 @@
   "bugs": {
     "url": "https://github.com/KisonBY/homebrigde-http-watcher-switch/issues"
   },
-  "license": "ISC",
+  "license": "MIT",
   "keywords": [
     "homebridge-plugin",
     "switch",
